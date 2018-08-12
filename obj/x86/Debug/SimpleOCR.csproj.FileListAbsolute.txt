@@ -1,8 +1,0 @@
-F:\SurenaOS\WindowsFormsApplication1\SimpleOCR\bin\Debug\SimpleOCR.exe
-F:\SurenaOS\WindowsFormsApplication1\SimpleOCR\bin\Debug\SimpleOCR.pdb
-F:\SurenaOS\WindowsFormsApplication1\SimpleOCR\obj\x86\Debug\SimpleOCR.csprojResolveAssemblyReference.cache
-F:\SurenaOS\WindowsFormsApplication1\SimpleOCR\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
-F:\SurenaOS\WindowsFormsApplication1\SimpleOCR\obj\x86\Debug\SimpleOCR.Properties.Resources.resources
-F:\SurenaOS\WindowsFormsApplication1\SimpleOCR\obj\x86\Debug\SimpleOCR.csproj.GenerateResource.Cache
-F:\SurenaOS\WindowsFormsApplication1\SimpleOCR\obj\x86\Debug\SimpleOCR.exe
-F:\SurenaOS\WindowsFormsApplication1\SimpleOCR\obj\x86\Debug\SimpleOCR.pdb
